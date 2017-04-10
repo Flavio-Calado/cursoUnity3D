@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 8a825c1c811c591499f11da535cb56f4
+timeCreated: 1491788144
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: head
+    100004: hip
+    100006: lfCyl1
+    100008: lfCyl2
+    100010: lfFoot
+    100012: lfShin
+    100014: lfThigh
+    100016: lrCyl1
+    100018: lrCyl2
+    100020: lrFoot
+    100022: lrShin
+    100024: lrThigh
+    100026: neck
+    100028: rfCyl1
+    100030: rfCyl2
+    100032: rfFoot
+    100034: rfShin
+    100036: rfThigh
+    100038: rrCyl1
+    100040: rrCyl2
+    100042: rrFoot
+    100044: rrShin
+    100046: rrThigh
+    400000: //RootNode
+    400002: head
+    400004: hip
+    400006: lfCyl1
+    400008: lfCyl2
+    400010: lfFoot
+    400012: lfShin
+    400014: lfThigh
+    400016: lrCyl1
+    400018: lrCyl2
+    400020: lrFoot
+    400022: lrShin
+    400024: lrThigh
+    400026: neck
+    400028: rfCyl1
+    400030: rfCyl2
+    400032: rfFoot
+    400034: rfShin
+    400036: rfThigh
+    400038: rrCyl1
+    400040: rrCyl2
+    400042: rrFoot
+    400044: rrShin
+    400046: rrThigh
+    2300000: head
+    2300002: hip
+    2300004: lfCyl1
+    2300006: lfCyl2
+    2300008: lfFoot
+    2300010: lfShin
+    2300012: lfThigh
+    2300014: lrCyl1
+    2300016: lrCyl2
+    2300018: lrFoot
+    2300020: lrShin
+    2300022: lrThigh
+    2300024: neck
+    2300026: rfCyl1
+    2300028: rfCyl2
+    2300030: rfFoot
+    2300032: rfShin
+    2300034: rfThigh
+    2300036: rrCyl1
+    2300038: rrCyl2
+    2300040: rrFoot
+    2300042: rrShin
+    2300044: rrThigh
+    3300000: head
+    3300002: hip
+    3300004: lfCyl1
+    3300006: lfCyl2
+    3300008: lfFoot
+    3300010: lfShin
+    3300012: lfThigh
+    3300014: lrCyl1
+    3300016: lrCyl2
+    3300018: lrFoot
+    3300020: lrShin
+    3300022: lrThigh
+    3300024: neck
+    3300026: rfCyl1
+    3300028: rfCyl2
+    3300030: rfFoot
+    3300032: rfShin
+    3300034: rfThigh
+    3300036: rrCyl1
+    3300038: rrCyl2
+    3300040: rrFoot
+    3300042: rrShin
+    3300044: rrThigh
+    4300000: head
+    4300002: hip
+    4300004: lfCyl1
+    4300006: lfCyl2
+    4300008: lfFoot
+    4300010: lfShin
+    4300012: lfThigh
+    4300014: lrCyl1
+    4300016: lrCyl2
+    4300018: lrFoot
+    4300020: lrShin
+    4300022: lrThigh
+    4300024: neck
+    4300026: rfCyl1
+    4300028: rfCyl2
+    4300030: rfFoot
+    4300032: rfShin
+    4300034: rfThigh
+    4300036: rrCyl1
+    4300038: rrCyl2
+    4300040: rrFoot
+    4300042: rrShin
+    4300044: rrThigh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
